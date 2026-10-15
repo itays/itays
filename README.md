@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/ItaySidis"><img src="https://github.com/itays/itays/blob/main/devcard.svg" width="400" alt="Itay Sidis's Dev Card"/></a>
-
